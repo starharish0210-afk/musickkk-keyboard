@@ -1,7 +1,7 @@
 # musickkk-keyboard
 This keyboard is not just a musical instrument, its a musickkkk keyboard it gonna be sick!!, and this will be a midi keyboard, i will make my own Pcb and things for it!!
 # Musickkk Keyboard
-
+ 
 So basically, I made my own MIDI keyboard using a Waveshare ESP32-S3-Zero and designed the whole PCB from scratch in KiCad.
 
 It has 7 copper touch keys arranged like a piano, 3 Kailh Choc switches, a rotary encoder, 2 slide potentiometers and 3 RGB LEDs. I wanted to make something that was actually mine, so I worked on my own layout and added my own silkscreen art.
